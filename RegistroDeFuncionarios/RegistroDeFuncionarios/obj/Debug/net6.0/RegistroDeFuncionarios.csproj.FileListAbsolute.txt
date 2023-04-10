@@ -1,0 +1,15 @@
+D:\CSharp\RegistroDeFuncionarios\RegistroDeFuncionarios\obj\Debug\net6.0\RegistroDeFuncionarios.csproj.AssemblyReference.cache
+D:\CSharp\RegistroDeFuncionarios\RegistroDeFuncionarios\obj\Debug\net6.0\RegistroDeFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\RegistroDeFuncionarios\RegistroDeFuncionarios\obj\Debug\net6.0\RegistroDeFuncionarios.AssemblyInfoInputs.cache
+D:\CSharp\RegistroDeFuncionarios\RegistroDeFuncionarios\obj\Debug\net6.0\RegistroDeFuncionarios.AssemblyInfo.cs
+D:\CSharp\RegistroDeFuncionarios\RegistroDeFuncionarios\obj\Debug\net6.0\RegistroDeFuncionarios.csproj.CoreCompileInputs.cache
+D:\CSharp\RegistroDeFuncionarios\RegistroDeFuncionarios\bin\Debug\net6.0\RegistroDeFuncionarios.exe
+D:\CSharp\RegistroDeFuncionarios\RegistroDeFuncionarios\bin\Debug\net6.0\RegistroDeFuncionarios.deps.json
+D:\CSharp\RegistroDeFuncionarios\RegistroDeFuncionarios\bin\Debug\net6.0\RegistroDeFuncionarios.runtimeconfig.json
+D:\CSharp\RegistroDeFuncionarios\RegistroDeFuncionarios\bin\Debug\net6.0\RegistroDeFuncionarios.dll
+D:\CSharp\RegistroDeFuncionarios\RegistroDeFuncionarios\bin\Debug\net6.0\RegistroDeFuncionarios.pdb
+D:\CSharp\RegistroDeFuncionarios\RegistroDeFuncionarios\obj\Debug\net6.0\RegistroDeFuncionarios.dll
+D:\CSharp\RegistroDeFuncionarios\RegistroDeFuncionarios\obj\Debug\net6.0\refint\RegistroDeFuncionarios.dll
+D:\CSharp\RegistroDeFuncionarios\RegistroDeFuncionarios\obj\Debug\net6.0\RegistroDeFuncionarios.pdb
+D:\CSharp\RegistroDeFuncionarios\RegistroDeFuncionarios\obj\Debug\net6.0\RegistroDeFuncionarios.genruntimeconfig.cache
+D:\CSharp\RegistroDeFuncionarios\RegistroDeFuncionarios\obj\Debug\net6.0\ref\RegistroDeFuncionarios.dll
